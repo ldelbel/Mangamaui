@@ -3,7 +3,7 @@
 Hi there 👋! I am Claudia, community founder at [women.code(be)](http://bit.ly/wdcb-website) 🧡, a community for womxn who code in Belgium. With this community we hope to make a positive impact on the Belgian tech scene and culture as well as creating a safe space for fellow womxn.
 
 At heart, I'm definitely a (tech) generalist; The last decade I gained experience working as a front-end developer, technical product manager and designer. 
-Nowadays, I love to spend most of my time at women.code(be), something I am truly grateful for. 💖 Because, besides being able to help others, the community gives me the freedom to switch between so many different roles and tasks. (What more can be sattisfying for a generalist, right? 😉) 
+Nowadays, I love to spend most of my time at women.code(be), something I am truly grateful for. 💖 Because, besides being able to help others, the community gives me the freedom to switch between so many different roles and tasks. (What more can be satisfying for a generalist, right? 😉) 
 
 ## To give you an idea of what I do at women.code(be):
 - Organising events
@@ -12,6 +12,7 @@ Nowadays, I love to spend most of my time at women.code(be), something I am trul
 - Maintaining our website
 - Day-to-day operations
 ...
+
 
 
 ## In short:
@@ -25,6 +26,7 @@ Nowadays, I love to spend most of my time at women.code(be), something I am trul
 🎮 Board & video game enthusiast 🤓
 
 😻 Loving cats & 🍹 Tiki bars
+
 
 
 ### 💬 Where to find me:
