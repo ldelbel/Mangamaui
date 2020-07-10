@@ -1,7 +1,5 @@
-# Claudia 👩‍💻 @Mangamaui 
-
-
 ![women dot code be](https://raw.githubusercontent.com/Mangamaui/Mangamaui/master/cover.png)
+
 
 Hi there 👋! I am Claudia, community founder at [women.code(be)](http://bit.ly/wdcb-website) 🧡, a community for womxn who code in Belgium. With this community we hope to make a positive impact on the Belgian tech scene and culture as well as creating a safe space for fellow womxn.
 
@@ -19,21 +17,22 @@ Nowadays, I love to spend most of my time at women.code(be), something I am trul
 - Day-to-day operations
 ...
 
-
-![hello](https://media1.tenor.com/images/72c9b849aa10b222371ebb99a6b1896a/tenor.gif)
-
-
 ## In short:
+<p>
+  <img width="280" alt="hello!" align="left" src="https://media1.tenor.com/images/72c9b849aa10b222371ebb99a6b1896a/tenor.gif">
+</p>
 
-💁‍♀️ Community Founder and generalist at [women.code(be)](http://bit.ly/wdcb-website) *(pronounced as women dot code be ee)*
+
+
+💁‍♀️ Community Founder and generalist at [women.code(be)](http://bit.ly/wdcb-website) 
 
 👩‍💻 UX Designer & (hobbyist) Front-end Developer, former Product Manager
 
 👩‍🏫 Event Co-organiser at [Fronteers](https://fronteers.nl) (Belgium)
 
-🎮 Board & video game enthusiast 🤓
+🎮 Anime, board & video game enthusiast 🤓 overall geek 👩🏻‍🎤
 
-😻 Loving cats & 🍹 Tiki bars
+😻 Loving cats &🍹 Tiki bars
 
 
 
@@ -41,8 +40,6 @@ Nowadays, I love to spend most of my time at women.code(be), something I am trul
 - 🦜 Twitter: https://twitter.com/mangamaui
 - 🏀 Dribbble: http://mangamaui.dribbble.com/
 - 📃 Website: https://mangamaui.com
-
-
 
 <!--
 **Mangamaui/Mangamaui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
