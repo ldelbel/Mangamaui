@@ -39,7 +39,6 @@ Nowadays, I love to spend most of my time at women.code(be), something I am trul
 ### 💬 Where to find me:
 - 🦜 Twitter: https://twitter.com/mangamaui
 - 🏀 Dribbble: http://mangamaui.dribbble.com/
-- 📃 Website: https://mangamaui.com
 
 <!--
 **Mangamaui/Mangamaui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
